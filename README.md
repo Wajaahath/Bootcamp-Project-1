@@ -13,6 +13,6 @@ How It Works
 - Input Validation: Users are prompted to enter valid numerical inputs.
 - Operation Selection: Supports operations +, -, *, and /.
 - Result Storage: Each calculation is saved in equations.txt in the format:
-	number1 operation number2 = result.
+	[number1] [operation] [number2] = result.
 - History Retrieval: Users can view previous calculations or start new ones.
 - Persistent Storage: Even after the program is closed, calculations are preserved in equations.txt.
